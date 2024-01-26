@@ -11,7 +11,7 @@ In this folder the following CGR_RY_reprstn_copy.m, CGR_MK_reprstn_copy.m, CGR_W
 The remaining Ascii_reprstn_copy.m, Atomic_reprstn_copy.m, Molecular_Mass_reprstn_copy.m, Thermodynamic_Prop_copy.m are used for comparison of the proposed work with existing work.
 
 #Description about .csv files
-Zip file named 'Train.zip' contains 14 .csv files. The name itself explains the file. It contains feature values. 
+Zip file named 'TRAINI~1.zip' contains 14 .csv files. The name itself explains the file. It contains feature values. 
 Thsese are input for the next step of .ows files. File names contain CGR_RY, CGR_MK, CGR_WS are used for this proposed work and the remaining are used for comparison process.
 
 #Description about .ows files
